@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/joelhsm">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Bem-vindo!;Welcome!;Bienvenido!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=fe6e95&center=true&vCenter=true&width=435&lines=Bem-vindo!;Welcome!;Bienvenido!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,7 +10,7 @@
 
 - 🔭 Atualmente trabalhando como servidor federal no Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano (IFSertãoPE).
 - 🌱 Estou aprendendo **Python e Django**.
-- 📫 Como chegar até mim: através dos meus links de contato acima!
+- 📫 Como chegar até mim: através dos meus links de contato abaixo!
 
 <br>
 
@@ -36,6 +36,6 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats-chi-two-38.vercel.app/api?username=joelhsm&count_private=true&show_icons=true&theme=gotham&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img height="150" src="https://github-readme-stats-chi-two-38.vercel.app/api/top-langs/?username=joelhsm&layout=compact&langs_count=7&theme=gotham&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+  <img height="150" src="https://github-readme-stats-chi-two-38.vercel.app/api?username=joelhsm&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  <img height="150" src="https://github-readme-stats-chi-two-38.vercel.app/api/top-langs/?username=joelhsm&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
 </div>
