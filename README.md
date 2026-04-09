@@ -15,6 +15,7 @@
 </div><br>
 
 <div style="display: inline_block" align="center"><br>
+  [![My Skills](https://skillicons.dev/icons?i=py, django,react,vue,flutter&perline=3)](https://skillicons.dev)
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
