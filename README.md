@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🔭 Atualmente trabalhando como servidor federal no Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano (IFSertãoPE).
+- 🔭 Atualmente trabalho como servidor federal no Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano (IFSertãoPE).
 - 🌱 Estou aprendendo **Python e Django**.
 - 📫 Como chegar até mim: através dos meus links de contato abaixo!
 
