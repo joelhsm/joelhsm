@@ -11,6 +11,7 @@
   <a href="https://https://github.com/joellhss">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joelhsms&count_private=true&show_icons=true&theme=gotham"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelhsm&layout=compact&langs_count=7&theme=gotham"/>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div><br>
 
 <div style="display: inline_block" align="center"><br>
