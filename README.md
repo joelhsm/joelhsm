@@ -10,8 +10,6 @@
 
 - 🔭 Atualmente trabalhando como servidor federal no Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano (IFSertãoPE).
 - 🌱 Estou aprendendo **Python e Django**.
-- 👯 Procuro colaborar em projetos open source e trocar conhecimentos da área.
-- 💬 Pergunte-me sobre **Python e Django**.
 - 📫 Como chegar até mim: através dos meus links de contato acima!
 
 <br>
